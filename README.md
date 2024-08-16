@@ -1,2 +1,3 @@
 # Trendytech_week14_Session3_financeproject
-Trendytech_week14_
+Trendytech_week14
+git,github,cicd
